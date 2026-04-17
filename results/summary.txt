@@ -1,0 +1,9 @@
+Model1 test loss: 1.4300386823654174
+Model1 test acc: 0.5057
+Model2 test loss: 1.5579576414108276
+Model2 test acc: 0.4413
+Disagreement count: 5020
+Model1 correct: 5057
+Model2 correct: 4413
+Model1 neuron coverage: 0.9993 (22705/22720)
+Model2 neuron coverage: 1.0000 (22719/22720)
